@@ -1,0 +1,8 @@
+name: nekoTimer
+version: 0.1
+main: com.longCat.nekoTimer.main
+
+commands:
+   timer:
+      description: 'Set up a timer.'
+      usage: '/timer h:m:s [TaskName] or /timer TaskID(ex: t1).'
